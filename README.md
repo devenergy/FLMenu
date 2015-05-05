@@ -4,8 +4,8 @@ Create customized menu with you app style easily.
 # Demo
 All below menu were built using this component.
 
-![ChannelMenu](https://raw.githubusercontent.com/Just-/demo/4fa40aeebc22bee2fa137d9c716e1a7d3e58327e/channel_selector_menu_demo.gif)
-![ShareMenu](https://raw.githubusercontent.com/Just-/demo/4fa40aeebc22bee2fa137d9c716e1a7d3e58327e/share_menu_demo.gif)
+![ChannelMenu](https://raw.githubusercontent.com/Just-/demo/master/channel_selector_menu_demo.gif)
+![ShareMenu](https://raw.githubusercontent.com/Just-/demo/master/share_menu_demo.gif)
 ![ProfileMenu](https://raw.githubusercontent.com/Just-/demo/4fa40aeebc22bee2fa137d9c716e1a7d3e58327e/profile_menu_demo.gif)
 ![MoreMenu](https://raw.githubusercontent.com/Just-/demo/4fa40aeebc22bee2fa137d9c716e1a7d3e58327e/more_menu_demo.gif)
 
